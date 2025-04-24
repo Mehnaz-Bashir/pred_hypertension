@@ -19,7 +19,7 @@ This project develops a **stacked ensemble machine learning model** to predict h
 
 ## 📊 Model Performance
 
-| Metric               | Stacked Ensemble | Random Forest | SVM       |
+| Metric               | Stacked Ensemble | SVM           |  Random Forest|
 |----------------------|------------------|---------------|-----------|
 | **Accuracy**         | 97.7%            | 72.1%         | 95.2%     |
 | **Stage 2 Recall**   | 100%             | 85%           | 98%       |
