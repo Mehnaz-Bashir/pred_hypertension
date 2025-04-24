@@ -1,0 +1,231 @@
+Timestamp,Age,Gender,What is your height?,What is your weight?,How many servings of fruits and vegetables do you consume per day?,How often do you consume fast food?,How much water do you drink daily?(in liters),How many days per week do you engage in moderate to intense exercise?,"On average, how many minutes do you exercise per session?",How many hours of sleep do you get on average per night?,Do you feel well-rested after sleep?,"On a scale of 1 to 10, how would you rate your stress levels?","How many hours per day do you spend on screens (e.g., TV, computer, phone)?",Do you smoke?,Do you consume alcohol? ,What is your blood pressure category?,Have you been diagnosed with hypertension (high blood pressure)?,Do you have a family history of hypertension?
+2025/02/18 6:52:34 pm GMT+5:30,23,Female,5.2,47,2,Frequently,2,2,30.0,6,No,7,6,Never,No,Normal: <120 / <80,Not sure,Yes
+2025/02/18 6:52:50 pm GMT+5:30,21,Male,5.6,68,1,Frequently,3,2,45.0,7,Yes,4,5,Never,No,Elevated: 120-129 / <80,No,Yes
+2025/02/18 7:01:10 pm GMT+5:30,25,Male,5.6,74,3,Frequently,2,7,1.0,7,Yes,5,7,Never,No,Normal: <120 / <80,No,No
+2025/02/18 7:03:27 pm GMT+5:30,25,Female,162.56,50,5,Rarely,4,5,40.0,8,Yes,5,3,Never,No,Normal: <120 / <80,No,No
+2025/02/18 7:06:12 pm GMT+5:30,27,Male,172.75,58,4,Rarely,4,4,30.0,8,Yes,3,4,Never,No,Normal: <120 / <80,No,No
+2025/02/18 7:08:45 pm GMT+5:30,58,Male,174.0,65,5,Rarely,3,2,30.0,8,Yes,2,2,Never,No,Normal: <120 / <80,No,No
+2025/02/18 7:11:11 pm GMT+5:30,50,Female,154.94,63,4,Never,4,4,30.0,8,Yes,3,1,Never,No,Normal: <120 / <80,No,No
+2025/02/18 7:13:01 pm GMT+5:30,16,Male,160.0,45,5,Rarely,4,7,35.0,8,Yes,3,2,Never,No,Normal: <120 / <80,No,No
+2025/02/18 7:16:48 pm GMT+5:30,24,Female,152.4,46,1,Occasionally,1,1,10.0,4,No,10,4,Never,No,Normal: <120 / <80,No,Yes
+2025/02/18 7:21:58 pm GMT+5:30,25,Female,5.6,59,2,Rarely,1,1,1.0,6,No,9,1,Never,No,Normal: <120 / <80,Not sure,Yes
+2025/02/18 7:26:44 pm GMT+5:30,21,Female,5.0,41,1,Occasionally,3,4,30.0,7,Yes,2,2,Never,No,Normal: <120 / <80,No,No
+2025/02/18 7:49:25 pm GMT+5:30,22,Female,5.0,44,1,Rarely,1,1,0.0,7,Yes,5,5,Never,No,Normal: <120 / <80,No,No
+2025/02/18 7:54:44 pm GMT+5:30,20,Female,152.4,48,2,Occasionally,2,2,15.0,6,Yes,4,5,Never,No,Normal: <120 / <80,No,Yes
+2025/02/18 7:56:31 pm GMT+5:30,21,Male,180.0,65,2,Rarely,2,1,5.0,6,No,8,8,Never,No,Normal: <120 / <80,No,Yes
+2025/02/18 7:59:59 pm GMT+5:30,58,Male,182.0,67,5,Rarely,3,4,30.0,8,Yes,3,2,Occasionally,No,Normal: <120 / <80,No,No
+2025/02/18 8:02:05 pm GMT+5:30,28,Male,180.0,60,5,Rarely,4,5,30.0,8,Yes,4,3,Regularly,No,Normal: <120 / <80,No,No
+2025/02/18 8:12:55 pm GMT+5:30,26,Male,160.0,65,5,Occasionally,3,5,45.0,8,Yes,2,13,Regularly,No,Normal: <120 / <80,No,No
+2025/02/18 8:16:56 pm GMT+5:30,24,Female,5.0,57,2,Occasionally,2,2,60.0,8,Yes,5,3,Never,No,Normal: <120 / <80,No,No
+2025/02/18 8:24:01 pm GMT+5:30,23,Female,4.9,60,1,Occasionally,1,1,13.0,6,No,9,6,Never,No,Elevated: 120-129 / <80,No,Yes
+2025/02/18 8:31:17 pm GMT+5:30,23,Female,5.0,45,3,Rarely,2,1,45.0,8,Yes,5,5,Never,No,Normal: <120 / <80,No,No
+2025/02/18 8:53:59 pm GMT+5:30,22,Female,165.0,45,1,Occasionally,2,1,0.0,9,No,6,4,Never,No,Not sure,No,No
+2025/02/18 8:54:05 pm GMT+5:30,22,Female,163.0,47,1,Frequently,1,1,10.0,8,No,8,6,Never,No,Normal: <120 / <80,No,No
+2025/02/18 8:57:33 pm GMT+5:30,24,Male,6.0,75,1,Rarely,4,6,1.0,9,Yes,6,8,Never,No,Normal: <120 / <80,No,No
+2025/02/18 8:58:30 pm GMT+5:30,20,Female,162.56,45,2,Occasionally,4,3,5.0,9,No,8,5,Never,No,Not sure,Not sure,No
+2025/02/18 9:05:16 pm GMT+5:30,26,Male,5.7,63,2,Daily,1,1,15.0,0,Yes,10,15,Regularly,No,Normal: <120 / <80,Yes,Yes
+2025/03/18 12:01:06 pm GMT+5:30,52,Female,150.0,80,2,Rarely,2,2,30.0,6,No,4,4,Never,No,Elevated: 120-129 / <80,Yes,Yes
+2025/03/18 12:01:06 pm GMT+5:30,52,Female,150.0,80,2,Rarely,2,2,30.0,6,No,4,4,Never,No,Elevated: 120-129 / <80,Yes,Yes
+2025/03/18 12:01:06 pm GMT+5:30,52,Female,150.0,80,2,Rarely,2,2,30.0,6,No,4,4,Never,No,Elevated: 120-129 / <80,Yes,Yes
+2025/02/18 9:22:12 pm GMT+5:30,23,Male,178.0,73,2,Occasionally,3,6,6.0,5,No,5,4,Occasionally,No,Normal: <120 / <80,No,Yes
+2025/02/18 9:24:30 pm GMT+5:30,24,Male,170.0,68,2,Rarely,2,2,50.0,8,Yes,3,4,Never,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Not sure,No
+2025/02/18 9:37:05 pm GMT+5:30,25,Female,143.0,58,1,Occasionally,2,1,15.0,6,No,10,10,Never,No,Normal: <120 / <80,No,No
+2025/02/18 9:45:50 pm GMT+5:30,21,Female,5.4,49,2,Frequently,2,3,30.0,8,Yes,10,4,Never,No,Not sure,No,Yes
+2025/02/18 9:48:47 pm GMT+5:30,19,Male,5.6,56,1,Rarely,1,1,10.0,7,Yes,4,5,Never,No,Not sure,Not sure,No
+2025/02/18 9:54:07 pm GMT+5:30,20,Male,6.0,63,3,Rarely,2,4,20.0,8,Yes,1,2,Never,No,Normal: <120 / <80,No,No
+2025/02/18 9:54:26 pm GMT+5:30,17,Female,125.0,70,1,Occasionally,2,1,10.0,8,No,10,8,Never,No,Normal: <120 / <80,No,Yes
+2025/02/18 9:54:42 pm GMT+5:30,25,Male,182.0,75,1,Frequently,2,6,59.0,6,Yes,10,10,Never,No,Normal: <120 / <80,No,No
+2025/02/18 10:04:39 pm GMT+5:30,56,Male,164.0,73,1,Never,1,1,10.0,8,No,10,12,Never,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/02/18 10:56:15 pm GMT+5:30,23,Female,165.0,75,1,Frequently,3,1,20.0,8,Yes,5,5,Never,No,Normal: <120 / <80,No,Yes
+2025/02/19 11:26:44 am GMT+5:30,29,Male,5.9,78,2,Rarely,2,2,5.0,5,No,3,3,Never,No,Normal: <120 / <80,No,No
+2025/02/19 12:17:17 pm GMT+5:30,27,Female,5.4,72,2,Daily,3,2,0.5,2,Yes,4,3,Never,Yes,Normal: <120 / <80,Yes,Yes
+2025/02/19 12:23:46 pm GMT+5:30,38,Female,5.8,69,1,Rarely,2,4,45.0,8,Yes,1,8,Never,No,Normal: <120 / <80,No,Yes
+2025/02/19 12:29:43 pm GMT+5:30,20,Female,5.3,40,2,Occasionally,3,2,30.0,8,No,10,6,Never,No,Normal: <120 / <80,No,No
+2025/02/19 12:31:20 pm GMT+5:30,21,Male,182.88,79,2,Occasionally,2,1,60.0,5,No,9,4,Regularly,No,Normal: <120 / <80,No,No
+2025/02/19 1:09:18 pm GMT+5:30,21,Female,170.0,45,4,Occasionally,4,5,45.0,8,Yes,2,2,Never,Yes,Elevated: 120-129 / <80,Not sure,No
+2025/02/19 2:04:01 pm GMT+5:30,20,Male,184.0,94,3,Frequently,2,3,25.0,5,No,6,4,Never,No,Normal: <120 / <80,No,No
+2025/02/18 6:52:50 pm GMT+5:30,21,Male,5.6,68,1,Frequently,3,2,45.0,7,Yes,4,5,Never,No,Elevated: 120-129 / <80,No,Yes
+2025/02/18 6:52:50 pm GMT+5:30,21,Male,5.6,68,1,Frequently,3,2,45.0,7,Yes,4,5,Never,No,Elevated: 120-129 / <80,No,Yes
+2025/02/18 6:52:50 pm GMT+5:30,21,Male,5.6,68,1,Frequently,3,2,45.0,7,Yes,4,5,Never,No,Elevated: 120-129 / <80,No,Yes
+2025/02/18 6:52:50 pm GMT+5:30,21,Male,5.6,68,1,Frequently,3,2,45.0,7,Yes,4,5,Never,No,Elevated: 120-129 / <80,No,Yes
+2025/02/21 11:50:35 am GMT+5:30,20,Female,152.4,48,1,Occasionally,3,1,0.0,8,No,5,8,Never,No,Not sure,No,Yes
+2025/02/21 11:51:25 am GMT+5:30,25,Female,5.4,60,1,Occasionally,4,1,10.0,8,Yes,7,3,Never,No,Elevated: 120-129 / <80,Not sure,Yes
+2025/02/21 11:52:50 am GMT+5:30,51,Male,5.7,80,4,Rarely,4,3,20.0,6,Yes,4,4,Never,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/02/22 2:04:22 pm GMT+5:30,52,Male,4.8,74,3,Rarely,2,1,0.0,7,Yes,7,4,Never,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/02/23 10:45:23 pm GMT+5:30,47,Female,5.4,83,2,Rarely,2,2,60.0,8,Yes,3,1,Never,No,High Blood Pressure(Stage 1): 130-139 / 80-89,No,Yes
+2025/02/23 10:49:06 pm GMT+5:30,56,Male,5.4,74,3,Rarely,2,1,20.0,8,Yes,6,4,Never,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/02/23 10:50:33 pm GMT+5:30,17,Female,4.11,70,2,Daily,3,3,30.0,8,Yes,4,4,Never,No,Normal: <120 / <80,No,Yes
+2025/02/23 10:53:50 pm GMT+5:30,57,Male,5.1,62,4,Occasionally,3,7,120.0,7,Yes,4,1,Regularly,Yes,Elevated: 120-129 / <80,Yes,Yes
+2025/02/23 10:55:08 pm GMT+5:30,23,Male,4.8,65,2,Daily,2,7,150.0,6,No,9,3,Regularly,Yes,Elevated: 120-129 / <80,No,Yes
+2025/02/23 10:56:24 pm GMT+5:30,28,Female,4.14,59,2,Daily,3,4,60.0,6,No,9,1,Occasionally,Yes,Elevated: 120-129 / <80,Not sure,Yes
+2025/02/23 11:38:51 pm GMT+5:30,50,Male,7.0,60,3,Daily,5,7,45.0,10,No,10,24,Regularly,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Not sure,No
+2025/02/24 12:54:44 pm GMT+5:30,20,Female,167.0,60,2,Rarely,3,4,30.0,8,No,7,10,Never,No,Normal: <120 / <80,No,No
+2025/02/25 12:40:05 pm GMT+5:30,29,Male,176.0,80,1,Occasionally,3,3,60.0,7,No,6,6,Regularly,Yes,Elevated: 120-129 / <80,Not sure,Yes
+2025/02/27 11:19:28 am GMT+5:30,19,Male,5.6,69,3,Frequently,4,4,30.0,8,Yes,5,9,Never,No,Normal: <120 / <80,No,No
+2025/02/27 11:28:39 am GMT+5:30,20,Male,5.0,58,3,Occasionally,3,5,30.0,9,Yes,1,8,Regularly,Yes,Elevated: 120-129 / <80,No,No
+2025/02/27 11:00:25 pm GMT+5:30,32,Female,4.9,68,3,Rarely,2,2,20.0,7,Yes,6,3,Occasionally,Yes,Elevated: 120-129 / <80,No,Yes
+2025/03/12 2:13:45 pm GMT+5:30,32,Female,164.0,60,2,Occasionally,3,3,20.0,6,Yes,4,4,Never,No,Elevated: 120-129 / <80,Yes,Yes
+2025/03/12 2:13:45 pm GMT+5:30,32,Female,164.0,60,2,Occasionally,3,3,20.0,6,Yes,4,4,Never,No,Elevated: 120-129 / <80,Yes,Yes
+2025/03/12 2:11:40 pm GMT+5:30,30,Male,176.0,75,2,Frequently,2,2,30.0,5,No,6,8,Regularly,No,Elevated: 120-129 / <80,Not sure,Yes
+2025/03/12 2:13:45 pm GMT+5:30,32,Female,164.0,60,2,Occasionally,3,3,20.0,6,Yes,4,4,Never,No,Elevated: 120-129 / <80,Yes,Yes
+2025/03/12 3:08:50 pm GMT+5:30,48,Male,155.0,72,3,Rarely,3,1,20.0,8,Yes,4,1,Never,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,No
+2025/03/12 3:10:38 pm GMT+5:30,45,Female,154.0,70,3,Rarely,3,3,25.0,8,Yes,4,1,Occasionally,No,Not sure,Yes,No
+2025/03/12 3:12:07 pm GMT+5:30,23,Male,182.0,85,4,Rarely,3,3,30.0,7,Yes,2,3,Never,No,Normal: <120 / <80,No,No
+2025/03/12 3:47:23 pm GMT+5:30,28,Female,5.0,60,3,Frequently,3,2,10.0,5,Yes,3,10,Never,No,Not sure,No,No
+2025/03/18 11:59:35 am GMT+5:30,44,Male,160.0,80,1,Occasionally,2,3,15.0,5,No,6,8,Regularly,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/18 12:01:06 pm GMT+5:30,52,Female,150.0,80,2,Rarely,2,2,30.0,6,No,4,4,Never,No,Elevated: 120-129 / <80,Yes,Yes
+2025/03/21 11:52:31 pm GMT+5:30,55,Male,4.7,68,2,Never,2,2,10.0,8,Yes,7,1,Regularly,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/21 11:53:57 pm GMT+5:30,18,Male,4.3,57,3,Daily,2,7,20.0,7,No,4,5,Never,No,Normal: <120 / <80,No,Yes
+2025/02/27 11:00:25 pm GMT+5:30,32,Female,4.9,68,3,Rarely,2,2,20.0,7,Yes,6,3,Occasionally,Yes,Elevated: 120-129 / <80,No,Yes
+2025/02/27 11:00:25 pm GMT+5:30,32,Male,4.9,68,3,Rarely,2,2,20.0,7,Yes,6,3,Occasionally,Yes,Elevated: 120-129 / <80,No,Yes
+2025/02/27 11:00:25 pm GMT+5:30,32,Female,4.9,68,3,Rarely,2,2,20.0,7,Yes,6,3,Occasionally,Yes,Elevated: 120-129 / <80,No,Yes
+2025/03/22 12:00:19 am GMT+5:30,24,Male,5.6,64,4,Never,5,6,180.0,6,Yes,2,1,Never,No,Elevated: 120-129 / <80,Not sure,Yes
+2025/03/22 12:01:19 am GMT+5:30,32,Prefer not to say,5.5,54,2,Occasionally,2,2,30.0,6,No,7,5,Regularly,Yes,Elevated: 120-129 / <80,Not sure,No
+2025/03/22 12:02:47 am GMT+5:30,22,Male,4.2,49,1,Daily,1,1,0.0,7,No,1,4,Occasionally,No,Normal: <120 / <80,Not sure,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Regularly,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/18 12:01:06 pm GMT+5:30,52,Female,150.0,80,2,Rarely,2,2,30.0,6,No,4,4,Never,No,Elevated: 120-129 / <80,Yes,Yes
+2025/03/18 12:01:06 pm GMT+5:30,62,Male,150.0,80,2,Rarely,2,2,30.0,6,No,4,4,Regularly,No,Elevated: 120-129 / <80,Yes,Yes
+2025/03/18 12:01:06 pm GMT+5:30,52,Female,150.0,80,2,Rarely,2,2,30.0,6,No,4,4,Regularly,No,Elevated: 120-129 / <80,Yes,Yes
+2025/03/18 12:01:06 pm GMT+5:30,42,Male,150.0,80,2,Rarely,2,2,30.0,6,No,4,4,Never,No,Elevated: 120-129 / <80,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,36,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Regularly,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Femle,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Occasionally,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,63,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Occasionally,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Occasionally,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Fele,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Never,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/02/18 6:52:50 pm GMT+5:30,41,Male,5.6,68,1,Frequently,3,2,45.0,7,Yes,4,5,Occasionally,No,Elevated: 120-129 / <80,No,Yes
+2025/02/18 6:52:50 pm GMT+5:30,21,Female,5.6,68,1,Frequently,3,2,45.0,7,Yes,4,5,Regularly,Yes,Elevated: 120-129 / <80,No,Yes
+2025/02/18 6:52:50 pm GMT+5:30,24,Male,5.6,68,1,Frequently,3,2,45.0,7,Yes,4,5,Never,No,Elevated: 120-129 / <80,No,Yes
+2025/02/18 6:52:50 pm GMT+5:30,31,Male,5.6,68,1,Frequently,3,2,45.0,7,Yes,4,5,Occasionally,Yes,Elevated: 120-129 / <80,No,Yes
+2025/02/18 6:52:50 pm GMT+5:30,21,Male,5.6,68,1,Frequently,3,2,45.0,7,Yes,4,5,Never,No,Elevated: 120-129 / <80,No,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Regularly,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,56,Female,5.4,70,3,Rarely,2,2,20.0,7,No,8,2,Regularly,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Female,5.6,74,3,Rarely,2,2,20.0,7,No,8,2,Regularly,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Occasionally,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Occasionally,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Never,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Female,5.6,80,3,Rarely,2,2,20.0,7,No,8,2,Regularly,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,37,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Occasionally,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,45,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Regularly,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Male,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Regularly,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Regularly,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,44,Male,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Occasionally,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Male,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Never,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Occasionally,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Regularly,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,28,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Occasionally,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,65,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Occasionally,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Male,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Never,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Regularly,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Occasionally,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Regularly,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,68,Female,5.6,80,2,Rarely,3,1,20.0,5,No,7,4,Never,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,48,Male,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Occasionally,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,38,Female,5.4,74,3,Rarely,2,2,20.0,7,No,8,2,Regularly,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Never,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,48,Male,5.8,75,2,Occasionally,1,3,20.0,6,No,6,6,Occasionally,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,35,Male,6.2,80,1,Frequently,3,2,15.0,5,No,8,8,Regularly,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,53,Male,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Occasionally,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Never,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,63,Female,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Occasionally,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,39,Male,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Never,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,49,Female,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Occasionally,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Regularly,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,47,Female,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Occasionally,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Regularly,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,54,Female,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Occasionally,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Regularly,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Occasionally,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,63,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Regularly,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,34,Male,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Occasionally,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Regularly,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Occasionally,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Fele,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Never,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/02/18 7:59:59 pm GMT+5:30,58,Male,182.0,67,5,Rarely,3,4,30.0,8,Yes,3,2,Occasionally,No,Normal: <120 / <80,No,No
+2025/03/22 12:03:54 am GMT+5:30,45,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Regularly,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/12 3:12:07 pm GMT+5:30,23,Male,182.0,85,4,Rarely,3,3,30.0,7,Yes,2,3,Never,No,Normal: <120 / <80,No,No
+2025/02/18 8:53:59 pm GMT+5:30,22,Female,165.0,45,1,Occasionally,2,1,0.0,9,No,6,4,Never,No,Not sure,No,No
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Occasionally,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,38,Female,5.4,74,3,Rarely,2,2,20.0,7,No,8,2,Regularly,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/18 12:01:06 pm GMT+5:30,52,Female,150.0,80,2,Rarely,2,2,30.0,6,No,4,4,Never,No,Elevated: 120-129 / <80,Yes,Yes
+2025/03/18 12:01:06 pm GMT+5:30,42,Male,150.0,80,2,Rarely,2,2,30.0,6,No,4,4,Never,No,Elevated: 120-129 / <80,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Regularly,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,56,Female,5.4,70,3,Rarely,2,2,20.0,7,No,8,2,Regularly,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Never,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Regularly,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/02/22 2:04:22 pm GMT+5:30,52,Male,4.8,74,3,Rarely,2,1,0.0,7,Yes,7,4,Never,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/02/18 6:52:50 pm GMT+5:30,21,Male,5.6,68,1,Frequently,3,2,45.0,7,Yes,4,5,Never,No,Elevated: 120-129 / <80,No,Yes
+2025/03/18 12:01:06 pm GMT+5:30,42,Male,150.0,80,2,Rarely,2,2,30.0,6,No,4,4,Never,No,Elevated: 120-129 / <80,Yes,Yes
+2025/02/18 10:56:15 pm GMT+5:30,23,Female,165.0,75,1,Frequently,3,1,20.0,8,Yes,5,5,Never,No,Normal: <120 / <80,No,Yes
+2025/03/22 12:03:54 am GMT+5:30,49,Female,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Occasionally,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/02/18 8:53:59 pm GMT+5:30,22,Female,165.0,45,1,Occasionally,2,1,0.0,9,No,6,4,Never,No,Not sure,No,No
+2025/02/23 10:55:08 pm GMT+5:30,23,Male,4.8,65,2,Daily,2,7,150.0,6,No,9,3,Regularly,Yes,Elevated: 120-129 / <80,No,Yes
+2025/02/18 8:54:05 pm GMT+5:30,22,Female,163.0,47,1,Frequently,1,1,10.0,8,No,8,6,Never,No,Normal: <120 / <80,No,No
+2025/03/22 12:03:54 am GMT+5:30,36,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Regularly,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/02/18 6:52:50 pm GMT+5:30,21,Male,5.6,68,1,Frequently,3,2,45.0,7,Yes,4,5,Never,No,Elevated: 120-129 / <80,No,Yes
+2025/02/23 10:56:24 pm GMT+5:30,28,Female,4.14,59,2,Daily,3,4,60.0,6,No,9,1,Occasionally,Yes,Elevated: 120-129 / <80,Not sure,Yes
+2025/02/18 7:59:59 pm GMT+5:30,58,Male,182.0,67,5,Rarely,3,4,30.0,8,Yes,3,2,Occasionally,No,Normal: <120 / <80,No,No
+2025/02/21 11:51:25 am GMT+5:30,25,Female,5.4,60,1,Occasionally,4,1,10.0,8,Yes,7,3,Never,No,Elevated: 120-129 / <80,Not sure,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Male,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Regularly,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/02/23 10:49:06 pm GMT+5:30,56,Male,5.4,74,3,Rarely,2,1,20.0,8,Yes,6,4,Never,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/02/27 11:28:39 am GMT+5:30,20,Male,5.0,58,3,Occasionally,3,5,30.0,9,Yes,1,8,Regularly,Yes,Elevated: 120-129 / <80,No,No
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Regularly,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/02/21 11:51:25 am GMT+5:30,25,Female,5.4,60,1,Occasionally,4,1,10.0,8,Yes,7,3,Never,No,Elevated: 120-129 / <80,Not sure,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Regularly,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/02/18 8:53:59 pm GMT+5:30,22,Female,165.0,45,1,Occasionally,2,1,0.0,9,No,6,4,Never,No,Not sure,No,No
+2025/03/12 3:47:23 pm GMT+5:30,28,Female,5.0,60,3,Frequently,3,2,10.0,5,Yes,3,10,Never,No,Not sure,No,No
+2025/02/18 8:16:56 pm GMT+5:30,24,Female,5.0,57,2,Occasionally,2,2,60.0,8,Yes,5,3,Never,No,Normal: <120 / <80,No,No
+2025/03/22 12:03:54 am GMT+5:30,47,Female,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Occasionally,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,36,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Regularly,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/02/23 11:38:51 pm GMT+5:30,50,Male,7.0,60,3,Daily,5,7,45.0,10,No,10,24,Regularly,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Not sure,No
+2025/02/18 7:56:31 pm GMT+5:30,21,Male,180.0,65,2,Rarely,2,1,5.0,6,No,8,8,Never,No,Normal: <120 / <80,No,Yes
+2025/02/18 7:16:48 pm GMT+5:30,24,Female,152.4,46,1,Occasionally,1,1,10.0,4,No,10,4,Never,No,Normal: <120 / <80,No,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Femle,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Occasionally,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/02/22 2:04:22 pm GMT+5:30,52,Male,4.8,74,3,Rarely,2,1,0.0,7,Yes,7,4,Never,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,49,Female,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Occasionally,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Regularly,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Occasionally,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Male,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Never,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/02/18 7:13:01 pm GMT+5:30,16,Male,160.0,45,5,Rarely,4,7,35.0,8,Yes,3,2,Never,No,Normal: <120 / <80,No,No
+2025/02/18 9:54:26 pm GMT+5:30,17,Female,125.0,70,1,Occasionally,2,1,10.0,8,No,10,8,Never,No,Normal: <120 / <80,No,Yes
+2025/03/22 12:00:19 am GMT+5:30,24,Male,5.6,64,4,Never,5,6,180.0,6,Yes,2,1,Never,No,Elevated: 120-129 / <80,Not sure,Yes
+2025/02/21 11:50:35 am GMT+5:30,20,Female,152.4,48,1,Occasionally,3,1,0.0,8,No,5,8,Never,No,Not sure,No,Yes
+2025/03/22 12:03:54 am GMT+5:30,58,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Never,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,47,Female,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Occasionally,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/02/18 6:52:50 pm GMT+5:30,21,Male,5.6,68,1,Frequently,3,2,45.0,7,Yes,4,5,Never,No,Elevated: 120-129 / <80,No,Yes
+2025/03/22 12:03:54 am GMT+5:30,54,Female,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Occasionally,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/02/23 10:45:23 pm GMT+5:30,47,Female,5.4,83,2,Rarely,2,2,60.0,8,Yes,3,1,Never,No,High Blood Pressure(Stage 1): 130-139 / 80-89,No,Yes
+2025/03/22 12:03:54 am GMT+5:30,37,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Occasionally,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/02/18 7:03:27 pm GMT+5:30,25,Female,162.56,50,5,Rarely,4,5,40.0,8,Yes,5,3,Never,No,Normal: <120 / <80,No,No
+2025/02/23 10:45:23 pm GMT+5:30,47,Female,5.4,83,2,Rarely,2,2,60.0,8,Yes,3,1,Never,No,High Blood Pressure(Stage 1): 130-139 / 80-89,No,Yes
+2025/02/19 1:09:18 pm GMT+5:30,21,Female,170.0,45,4,Occasionally,4,5,45.0,8,Yes,2,2,Never,Yes,Elevated: 120-129 / <80,Not sure,No
+2025/02/18 7:56:31 pm GMT+5:30,21,Male,180.0,65,2,Rarely,2,1,5.0,6,No,8,8,Never,No,Normal: <120 / <80,No,Yes
+2025/02/18 6:52:50 pm GMT+5:30,21,Female,5.6,68,1,Frequently,3,2,45.0,7,Yes,4,5,Regularly,Yes,Elevated: 120-129 / <80,No,Yes
+2025/02/18 6:52:50 pm GMT+5:30,21,Male,5.6,68,1,Frequently,3,2,45.0,7,Yes,4,5,Never,No,Elevated: 120-129 / <80,No,Yes
+2025/02/18 7:59:59 pm GMT+5:30,58,Male,182.0,67,5,Rarely,3,4,30.0,8,Yes,3,2,Occasionally,No,Normal: <120 / <80,No,No
+2025/02/19 12:17:17 pm GMT+5:30,27,Female,5.4,72,2,Daily,3,2,0.5,2,Yes,4,3,Never,Yes,Normal: <120 / <80,Yes,Yes
+2025/03/22 12:01:19 am GMT+5:30,32,Prefer not to say,5.5,54,2,Occasionally,2,2,30.0,6,No,7,5,Regularly,Yes,Elevated: 120-129 / <80,Not sure,No
+2025/03/22 12:03:54 am GMT+5:30,58,Male,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Never,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/02/22 2:04:22 pm GMT+5:30,52,Male,4.8,74,3,Rarely,2,1,0.0,7,Yes,7,4,Never,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/02/18 8:58:30 pm GMT+5:30,20,Female,162.56,45,2,Occasionally,4,3,5.0,9,No,8,5,Never,No,Not sure,Not sure,No
+2025/03/22 12:03:54 am GMT+5:30,48,Male,5.8,75,2,Occasionally,1,3,20.0,6,No,6,6,Occasionally,Yes,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/02/19 12:23:46 pm GMT+5:30,38,Female,5.8,69,1,Rarely,2,4,45.0,8,Yes,1,8,Never,No,Normal: <120 / <80,No,Yes
+2025/02/18 7:59:59 pm GMT+5:30,58,Male,182.0,67,5,Rarely,3,4,30.0,8,Yes,3,2,Occasionally,No,Normal: <120 / <80,No,No
+2025/02/19 2:04:01 pm GMT+5:30,20,Male,184.0,94,3,Frequently,2,3,25.0,5,No,6,4,Never,No,Normal: <120 / <80,No,No
+2025/02/27 11:00:25 pm GMT+5:30,32,Female,4.9,68,3,Rarely,2,2,20.0,7,Yes,6,3,Occasionally,Yes,Elevated: 120-129 / <80,No,Yes
+2025/03/22 12:03:54 am GMT+5:30,36,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Regularly,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/12 3:10:38 pm GMT+5:30,45,Female,154.0,70,3,Rarely,3,3,25.0,8,Yes,4,1,Occasionally,No,Not sure,Yes,No
+2025/02/18 7:16:48 pm GMT+5:30,24,Female,152.4,46,1,Occasionally,1,1,10.0,4,No,10,4,Never,No,Normal: <120 / <80,No,Yes
+2025/03/18 12:01:06 pm GMT+5:30,42,Male,150.0,80,2,Rarely,2,2,30.0,6,No,4,4,Never,No,Elevated: 120-129 / <80,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,39,Male,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Never,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Occasionally,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/02/27 11:19:28 am GMT+5:30,19,Male,5.6,69,3,Frequently,4,4,30.0,8,Yes,5,9,Never,No,Normal: <120 / <80,No,No
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,No,6,5,Regularly,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/22 12:00:19 am GMT+5:30,24,Male,5.6,64,4,Never,5,6,180.0,6,Yes,2,1,Never,No,Elevated: 120-129 / <80,Not sure,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Occasionally,No,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/02/18 9:48:47 pm GMT+5:30,19,Male,5.6,56,1,Rarely,1,1,10.0,7,Yes,4,5,Never,No,Not sure,Not sure,No
+2025/03/22 12:03:54 am GMT+5:30,58,Female,5.2,70,3,Rarely,2,2,20.0,7,No,8,2,Never,No,High Blood Pressure (Stage 2): ≥140 / ≥90,Yes,Yes
+2025/02/18 7:06:12 pm GMT+5:30,27,Male,172.75,58,4,Rarely,4,4,30.0,8,Yes,3,4,Never,No,Normal: <120 / <80,No,No
+2025/02/19 12:23:46 pm GMT+5:30,38,Female,5.8,69,1,Rarely,2,4,45.0,8,Yes,1,8,Never,No,Normal: <120 / <80,No,Yes
+2025/03/18 12:01:06 pm GMT+5:30,52,Female,150.0,80,2,Rarely,2,2,30.0,6,No,4,4,Never,No,Elevated: 120-129 / <80,Yes,Yes
+2025/03/22 12:03:54 am GMT+5:30,43,Male,5.8,75,2,Frequently,3,5,30.0,8,Yes,6,5,Regularly,Yes,High Blood Pressure(Stage 1): 130-139 / 80-89,Yes,Yes
+2025/03/12 3:12:07 pm GMT+5:30,23,Male,182.0,85,4,Rarely,3,3,30.0,7,Yes,2,3,Never,No,Normal: <120 / <80,No,No
